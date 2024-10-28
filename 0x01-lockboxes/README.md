@@ -1,4 +1,4 @@
-Concepts
+Key Concepts
 
 Lists and List Manipulation
 Graph Theory Basics
